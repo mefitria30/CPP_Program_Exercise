@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.txt": "plaintext",
+        ".cflintrc": "json",
+        "ostream": "cpp"
+    }
+}
